@@ -143,7 +143,7 @@
 	<edit_areas>
 		<edit_area id="edit1" parent_id="" purchase_interactable_id="" seasonal_flags="0" grid_size="0" is_static="false" default_vehicle="" spawned_static_vehicle_id="0" is_invisible_vehicle="false">
 			<transform 00="-1" 01="-0" 02="0" 03="0" 10="-0" 11="1" 12="-0" 13="0" 20="-0" 21="-0" 22="-1" 23="0" 30="-27.770796" 31="1.391634" 32="-4.158787" 33="1"/>
-			<size x="replaceMe" y="replaceMe" z="replaceMe"/>
+			<size x="100" y="100" z="100"/>
 		</edit_area>
 		<edit_area id="edit2" parent_id="" purchase_interactable_id="" seasonal_flags="0" grid_size="5" is_static="true" default_vehicle="bed" spawned_static_vehicle_id="0" is_invisible_vehicle="true">
 			<transform 00="-0.669131" 01="-0" 02="0.743145" 03="0" 10="-0" 11="1" 12="-0" 13="0" 20="-0.743145" 21="-0" 22="-0.669131" 23="0" 30="-57.259571" 31="24.483561" 32="0.559265" 33="1"/>

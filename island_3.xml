@@ -161,7 +161,7 @@
 	<edit_areas>
 		<edit_area id="edit0" parent_id="" purchase_interactable_id="purchase_hangar" seasonal_flags="0" grid_size="0" is_static="false" default_vehicle="" spawned_static_vehicle_id="0" is_invisible_vehicle="false">
 			<transform 00="1" 01="0" 02="0" 03="0" 10="0" 11="1" 12="0" 13="0" 20="0" 21="0" 22="1" 23="0" 30="0" 31="16.648621" 32="101.914764" 33="1"/>
-			<size x="replaceMe" y="replaceMe" z="replaceMe"/>
+			<size x="100" y="100" z="100"/>
 		</edit_area>
 		<edit_area id="fuel_store" parent_id="" purchase_interactable_id="" seasonal_flags="0" grid_size="1" is_static="true" default_vehicle="fuel_store_1" spawned_static_vehicle_id="0" is_invisible_vehicle="false">
 			<transform 00="0" 01="0" 02="1" 03="0" 10="0" 11="1" 12="0" 13="0" 20="-1" 21="0" 22="0" 23="0" 30="-7.254913" 31="10.988403" 32="129.136993" 33="1"/>

@@ -229,11 +229,11 @@
 	<edit_areas>
 		<edit_area id="dock_edit" grid_size="0">
 			<transform 00="0.669131" 02="0.743145" 20="-0.743145" 22="0.669131" 30="-122.365799" 31="2.431198" 32="-5.755886"/>
-			<size x="replaceMe" y="replaceMe" z="replaceMe"/>
+			<size x="100" y="100" z="100"/>
 		</edit_area>
 		<edit_area id="train_edit" grid_size="0">
 			<transform 00="0.65953" 02="0.751679" 20="-0.751679" 22="0.65953" 30="4.013518" 31="19.00631" 32="162.940567"/>
-			<size x="replaceMe" y="replaceMe" z="replaceMe"/>
+			<size x="100" y="100" z="100"/>
 		</edit_area>
 		<edit_area id="edit7" grid_size="5" is_static="true" default_vehicle="bed" is_invisible_vehicle="true">
 			<transform 00="0.667915" 02="0.744238" 20="-0.744238" 22="0.667915" 30="70.333679" 31="16.156979" 32="78.069473"/>
