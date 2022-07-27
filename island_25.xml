@@ -205,9 +205,9 @@
 	</lights_tube>
 	<screens/>
 	<edit_areas>
-		<edit_area id="dock_edit" grid_size="0">
+		<edit_area id="dock_edit" grid_size="2">
 			<transform 00="0" 02="1" 20="-1" 22="0" 30="48.28693" 31="6.826356" 32="-80.607788"/>
-			<size x="replaceMe" y="replaceMe" z="replaceMe"/>
+			<size x="22.5" y="20.5" z="57.25"/>
 		</edit_area>
 		<edit_area id="bed" grid_size="5" is_static="true" default_vehicle="bed" is_invisible_vehicle="true">
 			<transform 00="0" 02="1" 20="-1" 22="0" 30="93.468498" 31="5.593994" 32="-51.281067"/>
@@ -550,3 +550,4 @@
 	<train_tracks/>
 	<volcano_markers/>
 </definition>
+

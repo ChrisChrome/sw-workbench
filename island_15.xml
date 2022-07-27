@@ -672,13 +672,13 @@
 	<lights_tube/>
 	<screens/>
 	<edit_areas>
-		<edit_area id="hangar_edit" grid_size="0">
+		<edit_area id="hangar_edit" grid_size="4">
 			<transform 00="-0" 02="-1" 20="1" 22="-0" 30="-261.141724" 31="9.983086" 32="50.973915"/>
-			<size x="replaceMe" y="replaceMe" z="replaceMe"/>
+			<size x="36.5" y="10" z="35"/>
 		</edit_area>
-		<edit_area id="dock_edit" grid_size="0">
+		<edit_area id="dock_edit" grid_size="2">
 			<transform 00="-1" 22="-1" 30="-228.251617" 31="5.326683" 32="-65.073463"/>
-			<size x="replaceMe" y="replaceMe" z="replaceMe"/>
+			<size x="22.5" y="20.5" z="57.25"/>
 		</edit_area>
 		<edit_area id="office_bed_01" grid_size="5" is_static="true" default_vehicle="bed" is_invisible_vehicle="true">
 			<transform 00="0" 02="1" 20="-1" 22="0" 30="-225.207153" 31="8.407701" 32="103.637291"/>
@@ -1497,3 +1497,4 @@
 	<train_tracks/>
 	<volcano_markers/>
 </definition>
+

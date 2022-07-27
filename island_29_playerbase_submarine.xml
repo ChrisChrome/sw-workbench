@@ -56,21 +56,21 @@
 	</lights_tube>
 	<screens/>
 	<edit_areas>
-		<edit_area id="edit0" parent_id="" purchase_interactable_id="" seasonal_flags="0" grid_size="0" is_static="false" default_vehicle="" spawned_static_vehicle_id="0" is_invisible_vehicle="false">
+		<edit_area id="edit0" parent_id="" purchase_interactable_id="" seasonal_flags="0" grid_size="2" is_static="false" default_vehicle="" spawned_static_vehicle_id="0" is_invisible_vehicle="false">
 			<transform 00="0.999428" 01="0" 02="-0.033843" 03="0" 10="0" 11="1" 12="0" 13="0" 20="0.033843" 21="0" 22="0.999428" 23="0" 30="31.479197" 31="2.350157" 32="57.27142" 33="1"/>
-			<size x="replaceMe" y="replaceMe" z="replaceMe"/>
+			<size x="22.5" y="20.5" z="57.25"/>
 		</edit_area>
 		<edit_area id="edit1" parent_id="" purchase_interactable_id="" seasonal_flags="0" grid_size="0" is_static="true" default_vehicle="" spawned_static_vehicle_id="0" is_invisible_vehicle="false">
 			<transform 00="-0.041618" 01="0" 02="-0.999134" 03="0" 10="0" 11="1" 12="0" 13="0" 20="0.999134" 21="0" 22="-0.041618" 23="0" 30="19.788614" 31="13.902586" 32="-14.399784" 33="1"/>
-			<size x="replaceMe" y="replaceMe" z="replaceMe"/>
+			<size x="25" y="20.5" z="50"/>
 		</edit_area>
-		<edit_area id="edit2" parent_id="" purchase_interactable_id="" seasonal_flags="0" grid_size="0" is_static="true" default_vehicle="" spawned_static_vehicle_id="0" is_invisible_vehicle="false">
+		<edit_area id="edit2" parent_id="" purchase_interactable_id="" seasonal_flags="0" grid_size="6" is_static="true" default_vehicle="" spawned_static_vehicle_id="0" is_invisible_vehicle="false">
 			<transform 00="0.999983" 01="0" 02="-0.005976" 03="0" 10="0" 11="1" 12="0" 13="0" 20="0.005976" 21="0" 22="0.999983" 23="0" 30="28.308786" 31="33.984253" 32="57.830654" 33="1"/>
-			<size x="replaceMe" y="replaceMe" z="replaceMe"/>
+			<size x="36.5" y="20.5" z="36.5"/>
 		</edit_area>
 		<edit_area id="edit3" parent_id="" purchase_interactable_id="" seasonal_flags="0" grid_size="0" is_static="true" default_vehicle="" spawned_static_vehicle_id="0" is_invisible_vehicle="false">
 			<transform 00="1" 01="0" 02="0" 03="0" 10="0" 11="1" 12="0" 13="0" 20="0" 21="0" 22="1" 23="0" 30="28.902811" 31="6.618986" 32="44.257076" 33="1"/>
-			<size x="replaceMe" y="replaceMe" z="replaceMe"/>
+			<size x="45" y="20.5" z="50"/>
 		</edit_area>
 	</edit_areas>
 	<interactables>
@@ -113,3 +113,4 @@
 	<train_tracks/>
 	<iceberg_markers/>
 </definition>
+
