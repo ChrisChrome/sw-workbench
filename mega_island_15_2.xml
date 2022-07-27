@@ -426,7 +426,7 @@
 	<edit_areas>
 		<edit_area id="dock_edit" parent_id="" purchase_interactable_id="" seasonal_flags="0" grid_size="0" is_static="false" default_vehicle="" spawned_static_vehicle_id="0" is_invisible_vehicle="false">
 			<transform 00="-0.486331" 01="0" 02="0.873774" 03="0" 10="0" 11="1" 12="0" 13="0" 20="-0.873774" 21="0" 22="-0.486331" 23="0" 30="168.406937" 31="2.159357" 32="-423.594788" 33="1"/>
-			<size x="replaceMe" y="replaceMe" z="replaceMe"/>
+			<size x="1000" y="1000" z="1000"/>
 		</edit_area>
 		<edit_area id="edit15" parent_id="" purchase_interactable_id="" seasonal_flags="0" grid_size="5" is_static="true" default_vehicle="bed" spawned_static_vehicle_id="0" is_invisible_vehicle="true">
 			<transform 00="0.907392" 01="0" 02="-0.420286" 03="0" 10="0" 11="1" 12="0" 13="0" 20="0.420286" 21="0" 22="0.907392" 23="0" 30="113.69899" 31="7.056055" 32="204.418655" 33="1"/>

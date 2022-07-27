@@ -349,19 +349,19 @@
 	<edit_areas>
 		<edit_area id="hangar_left_edit" grid_size="0">
 			<transform 00="-0.707107" 02="-0.707107" 20="0.707107" 22="-0.707107" 30="-75.614319" 31="18.908291" 32="131.597"/>
-			<size x="replaceMe" y="replaceMe" z="replaceMe"/>
+			<size x="1000" y="1000" z="1000"/>
 		</edit_area>
 		<edit_area id="hangar_right_edit" grid_size="0">
 			<transform 00="-0.707107" 02="-0.707107" 20="0.707107" 22="-0.707107" 30="-128.20401" 31="18.908291" 32="79.007309"/>
-			<size x="replaceMe" y="replaceMe" z="replaceMe"/>
+			<size x="1000" y="1000" z="1000"/>
 		</edit_area>
 		<edit_area id="dock_left_edit" grid_size="0">
 			<transform 00="-0" 02="-1" 20="1" 22="-0" 30="384.159332" 31="7.5292" 32="-119.435997"/>
-			<size x="replaceMe" y="replaceMe" z="replaceMe"/>
+			<size x="1000" y="1000" z="1000"/>
 		</edit_area>
 		<edit_area id="dock_right_edit" grid_size="0">
 			<transform 00="-0" 02="-1" 20="1" 22="-0" 30="385.452637" 31="7.897019" 32="-185.026245"/>
-			<size x="replaceMe" y="replaceMe" z="replaceMe"/>
+			<size x="1000" y="1000" z="1000"/>
 		</edit_area>
 		<edit_area id="office_bed_01" grid_size="5" is_static="true" default_vehicle="bed" is_invisible_vehicle="true">
 			<transform 00="-0.707107" 02="0.707107" 20="-0.707107" 22="-0.707107" 30="-115.058708" 31="14.360964" 32="129.236725"/>

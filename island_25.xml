@@ -207,7 +207,7 @@
 	<edit_areas>
 		<edit_area id="dock_edit" grid_size="0">
 			<transform 00="0" 02="1" 20="-1" 22="0" 30="48.28693" 31="6.826356" 32="-80.607788"/>
-			<size x="replaceMe" y="replaceMe" z="replaceMe"/>
+			<size x="1000" y="1000" z="1000"/>
 		</edit_area>
 		<edit_area id="bed" grid_size="5" is_static="true" default_vehicle="bed" is_invisible_vehicle="true">
 			<transform 00="0" 02="1" 20="-1" 22="0" 30="93.468498" 31="5.593994" 32="-51.281067"/>

@@ -386,7 +386,7 @@
 	<edit_areas>
 		<edit_area id="train_edit" grid_size="0">
 			<transform 00="-0.999922" 02="0.012487" 20="-0.012487" 22="-0.999922" 30="-1.444977" 31="19.046448" 32="-381.358215"/>
-			<size x="replaceMe" y="replaceMe" z="replaceMe"/>
+			<size x="1000" y="1000" z="1000"/>
 		</edit_area>
 		<edit_area id="bed_02" grid_size="5" is_static="true" default_vehicle="bed" is_invisible_vehicle="true">
 			<transform 30="-376.688232" 31="32.625542" 32="-256.13327"/>
