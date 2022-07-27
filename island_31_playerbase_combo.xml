@@ -43,15 +43,15 @@
 	<edit_areas>
 		<edit_area id="edit0" parent_id="" purchase_interactable_id="" seasonal_flags="0" grid_size="0" is_static="false" default_vehicle="" spawned_static_vehicle_id="0" is_invisible_vehicle="false">
 			<transform 00="0.075774" 01="0" 02="-0.997125" 03="0" 10="0" 11="1" 12="0" 13="0" 20="0.997125" 21="0" 22="0.075774" 23="0" 30="28.249626" 31="0.313948" 32="-10.067824" 33="1"/>
-			<size x="replaceMe" y="replaceMe" z="replaceMe"/>
+			<size x="500" y="500" z="500"/>
 		</edit_area>
 		<edit_area id="edit1" parent_id="" purchase_interactable_id="" seasonal_flags="0" grid_size="0" is_static="false" default_vehicle="" spawned_static_vehicle_id="0" is_invisible_vehicle="false">
 			<transform 00="0.758864" 01="0" 02="0.65125" 03="0" 10="0" 11="1" 12="0" 13="0" 20="-0.65125" 21="0" 22="0.758864" 23="0" 30="-0.834297" 31="-1.805315" 32="27.918442" 33="1"/>
-			<size x="replaceMe" y="replaceMe" z="replaceMe"/>
+			<size x="500" y="500" z="500"/>
 		</edit_area>
 		<edit_area id="edit2" parent_id="" purchase_interactable_id="" seasonal_flags="0" grid_size="0" is_static="true" default_vehicle="" spawned_static_vehicle_id="0" is_invisible_vehicle="false">
 			<transform 00="0.766621" 01="0" 02="0.642099" 03="0" 10="0" 11="1" 12="0" 13="0" 20="-0.642099" 21="0" 22="0.766621" 23="0" 30="-11.806374" 31="5.86595" 32="21.290543" 33="1"/>
-			<size x="replaceMe" y="replaceMe" z="replaceMe"/>
+			<size x="500" y="500" z="500"/>
 		</edit_area>
 	</edit_areas>
 	<interactables>

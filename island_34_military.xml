@@ -459,11 +459,11 @@
 	<edit_areas>
 		<edit_area id="hangar_edit_left" grid_size="0">
 			<transform 00="0.848048" 02="-0.529919" 20="0.529919" 22="0.848048" 30="124.374809" 31="27.447525" 32="14.214375"/>
-			<size x="replaceMe" y="replaceMe" z="replaceMe"/>
+			<size x="500" y="500" z="500"/>
 		</edit_area>
 		<edit_area id="hangar_edit_right" grid_size="0">
 			<transform 00="-0.848048" 02="0.529919" 20="-0.529919" 22="-0.848048" 30="100.25782" 31="27.447525" 32="-24.327951"/>
-			<size x="replaceMe" y="replaceMe" z="replaceMe"/>
+			<size x="500" y="500" z="500"/>
 		</edit_area>
 		<edit_area id="bed_01" grid_size="5" is_static="true" default_vehicle="bed" is_invisible_vehicle="true">
 			<transform 00="0.855144" 02="-0.51839" 20="0.51839" 22="0.855144" 30="-72.014267" 31="23.523132" 32="43.533218"/>
